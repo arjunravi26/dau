@@ -77,7 +77,7 @@ DAU(n_neighbors=3, min_samples=5, eps=0.05, percentile=25)
 
 ---
 
-### 📌 Method: `fit_transform(X, y)`
+###  Method: `fit_transform(X, y)`
 
 Performs density-aware undersampling.
 
@@ -93,7 +93,7 @@ Performs density-aware undersampling.
 
 ---
 
-## 🔍 Example in Pipeline
+## Example in Pipeline
 
 You can also integrate DAU into an ML pipeline (with `imblearn`):
 
@@ -111,7 +111,7 @@ pipeline.fit(X, y)
 
 ---
 
-## 📊 Why DAU vs Other Methods?
+## Why DAU vs Other Methods?
 
 | Method                 | Behavior                                                                  |
 | ---------------------- | ------------------------------------------------------------------------- |
@@ -121,7 +121,7 @@ pipeline.fit(X, y)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork this repo
 2. Create a new branch (`git checkout -b feature-xyz`)
@@ -131,10 +131,7 @@ pipeline.fit(X, y)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
----
-
-👉 Would you like me to also create a **`docs/quickstart.ipynb` notebook** with code + visualizations (scatterplots before and after undersampling)? That way users can *see* the difference DAU makes.
