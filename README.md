@@ -58,7 +58,7 @@ print("Resampled dataset shape:", y_resampled.value_counts().to_dict())
 
 ## 🛠 Usage & Parameters
 
-### 📌 Class: `DAU`
+### Class: `DAU`
 
 ```python
 DAU(n_neighbors=3, min_samples=5, eps=0.05, percentile=25)
