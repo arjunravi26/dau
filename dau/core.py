@@ -5,7 +5,7 @@ import numpy as np
 
 class DAU:
 
-  def __init__(self,n_neighbors:int=3,min_samples:int=5,eps:float=0.05,percentile:int=25):
+  def __init__(self,n_neighbors:int=3,min_samples:int=5,eps:float=0.05,percentile:int=50):
     self.n_neighbors = n_neighbors
     self.min_samples = min_samples
     self.eps = eps
