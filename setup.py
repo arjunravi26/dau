@@ -8,7 +8,7 @@ setup(
     description="Density Aware Undersampling for Imbalanced Data",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/arjunravi26/dau-undersampling",  # your repo
+    url="https://github.com/arjunravi26/dau-undersampling",
     packages=find_packages(),
     install_requires=[
         "numpy",
