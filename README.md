@@ -13,7 +13,7 @@ This ensures that your classifier learns from diverse and informative samples wi
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 pip install dau-undersampling
