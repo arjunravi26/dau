@@ -19,7 +19,7 @@ This leads to **smarter undersampling** and better ML performance compared to ra
 From [PyPI](https://pypi.org/project/dau-undersampler/):
 
 ```bash
-pip install dau-undersampling
+pip install dau-undersampler
 ```
 
 (Optionally, for testing on [TestPyPI](https://test.pypi.org/)):
