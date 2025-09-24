@@ -11,7 +11,6 @@ Instead of random undersampling, DAU keeps:
 
 This leads to **smarter undersampling** and better ML performance compared to random undersampling.
 
-pip repo: https://pypi.org/project/dau-undersampler/
 
 ---
 
